@@ -1,4 +1,4 @@
-# Stack Overflow-Question-Status-Prediction
+# Stack-Overflow-Question-Status-Prediction
 
 Predicts the status of the stack Overflow question - <b>open</b>, <b>not a real question</b>, <b>not constructive</b>, <b>off topic</b>, <b>too localized</b>
 
