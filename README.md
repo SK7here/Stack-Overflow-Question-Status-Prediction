@@ -1,6 +1,6 @@
-# StackOverflow-Question-Status-Prediction
+# Stack Overflow-Question-Status-Prediction
 
-Predicts the status of the stackOverflow question - <b>open</b>, <b>not a real question</b>, <b>not constructive</b>, <b>off topic</b>, <b>too localized</b>
+Predicts the status of the stack Overflow question - <b>open</b>, <b>not a real question</b>, <b>not constructive</b>, <b>off topic</b>, <b>too localized</b>
 
 ## Dataset
 <a href="https://www.kaggle.com/competitions/predict-closed-questions-on-stack-overflow/data?select=train-sample.csv">Predict Closed Questions on Stack Overflow</a>
